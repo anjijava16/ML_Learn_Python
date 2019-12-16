@@ -5,6 +5,7 @@ ML_Learn_Python
 # To learn Machine Learning in Python, you first need to follow basic following steps:
 
 # First learn some basic Python. You need to cover some topics like:
+```
 Variables
 Loops
 Conditions
@@ -12,15 +13,26 @@ List and String Slicing
 Dictionaries
 Tuples and Argument Packing, Unpacking
 Classes (One of the most Important)
+
+```
+
 # Then learn some basic Libraries of Python you will use in Machine Learning:
+
+```
   Numpy
   Pandas
   Matplotlib
+ ```
+  
 # Now for the actual Machine Learning (not the part for code) you need to learn some basic Mathematics too:
-  Linear Algebra (working with Matrix, Vectors)
+ ```
+ Linear Algebra (working with Matrix, Vectors)
   Calculus (mostly differentiation)
   Statistics
+  
+ ``` 
 # Search for some Good Content you will get online:
+  ```
   For this part, I will go for 
   Coding Block’s Data Scientist course
   The all those points which I mentioned above you need to learn, you have to search online on different websites (YouTube for most of the part) , but in this course, you are getting all at one place.
