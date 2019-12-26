@@ -142,6 +142,69 @@ Udacity
 10. Tableau Blog
 
 
+# 📇Top Machine Learning Algorithms📉
+
+1. Linear Regression
+2. Logistic Regression
+3. Decision Trees
+4. Random Forests
+5. K Means Clustering 
+6. Support Vector Machine
+7. Artificial Neural Network
+8. Apriori Algorithm
+9. Naïve Bayes Classifier
+10. Nearest Neighbor
+
+👉🏻 For more, please Follow: http://bit.ly/drangshu
+
+# 🖇Top Python Libraries📕
+
+1. Pandas
+2. Numpy
+3. Scikit-Learn
+4. Keras
+5. PyTorch
+6. LightGBM
+7. Matplotlib
+8. SciPy
+9. Theano
+10. TensorFlow
+
+# 🔏Top Data Science Books📚
+
+1. Automate the boring stuff
+2. Data science at the command line
+3. Think stats
+4. Python data science handbook
+5. R for data science
+6. Machine learning yearning
+7. Ethics and data science
+8. Deep learning
+9. Rules for machine learning
+10. Probabilistic Programming & Bayesian methods
+
+# 📍Top Data Science Courses Offered Online🔖
+
+1. Coursera: Stanford & Johns Hopkins
+3. EdX: Data Science Essentials
+4. Udacity: Machine Learning
+5. Kaggle
+6. Dataquest
+7. KDNuggets 
+
+# 📌Top Roles in AI & Data Science📈
+
+1. Data Scientist
+2. Decision Maker
+3. Analyst
+4. ETL Engineer
+5. Machine Learning Engineer
+6. Data Engineer
+7. Analytics Manager
+8. Tableau Developer
+9. Researcher
+
+
 # ML_Learn_Python
 ML_Learn_Python
 
