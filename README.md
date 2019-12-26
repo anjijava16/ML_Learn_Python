@@ -51,6 +51,90 @@
 9. Energy
 10. Utilities
 
+
+# 📍Best Data Science Courses Online🔖
+
+Coursera
+1. Stanford University
+2. DeepLearning .ai
+3. IBM
+4. Johns Hopkins
+5. University of Michigan
+
+EdX
+6. Harvard University
+7. MIT
+
+Udacity
+8. Data Science Nanodegree
+
+
+# 📌Top 10 Data Science Blogs📈
+
+1. Data Camp
+2. Data Science Central
+3. KDnuggets
+4. R-Bloggers
+5. Revolution Analytics
+6. Analytics Vidya
+7. Codementor
+8. Data Plus Science
+9. Data Science 101
+10. DataRobot
+
+# 🧮Statistics & Probability 📚
+
+1. Khan Academy
+2. OpenIntro
+3. Exam Solutions
+4. Seeing Theory
+5. Towardsdatascience
+6. Elitedatascience
+7. OLI
+8. Class Central
+9. Alison
+10. Guru99
+
+# 🔏Free Data Sets🖇
+
+1. Data.world
+2. Kaggle
+3. FiveThirthyEight
+4. BuzzFeed
+5. Socrata OpenData
+6. Data gov
+7.  Quandl
+8. Reddit
+9. UCI Repository
+10. Academic Torrents
+
+# 📇 Python📕
+
+1. Code Academy
+2. TutorialsPoint
+3. Python org
+4. Python for Beginners
+5. Pythonspot
+6. Interactive Python
+7. Python Tutor
+8. Full Stack Python
+9. Awesome-Python
+10. CheckiO
+
+# 📊Visualization📉
+
+1. Storytelling with Data
+2. Information is Beautiful
+3. Flowing Data
+4. Visualising Data
+5. Junk Charts
+6. The Pudding
+7.  The Atlas
+8. Graphic Detail
+9. US Census & FEMA
+10. Tableau Blog
+
+
 # ML_Learn_Python
 ML_Learn_Python
 
